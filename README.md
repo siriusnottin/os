@@ -6,6 +6,9 @@ The goal is to have one interface to manage both my personal laptop, and my deve
 
 ## Features
 
+> [!WARNING]  
+> This project is under active development. Features and functionality may change without notice.
+
 **Manage machines**
 
 1. MacOS personal machine
