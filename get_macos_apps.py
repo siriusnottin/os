@@ -13,6 +13,9 @@ logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
 
 from tabulate import tabulate
 
+OUTPUT_FOLDER = 'output'
+JSON_FILE_NAME = 'mac_apps.json'
+
 EXCLUDED_PUBLISHERS = ('Adobe',) # not used for now
 DEFAULT_APP_DIR = '/Applications'
 APP_INSTALLERS = {
@@ -81,17 +84,17 @@ def display_apps(apps):
   headers = ['App Name', 'Publisher', 'Installation Method']
   print(tabulate(table, headers, tablefmt='github', showindex='always'))
     
-json_file_name = 'mac_apps.json'
-json_file_path = os.path.join(os.getcwd(), json_file_name)
-def create_json_file(data, file_path=json_file_path):
+json_rel_path = os.path.join(OUTPUT_FOLDER, JSON_FILE_NAME)
+json_abs_path = os.path.join(os.getcwd(), json_rel_path)
+def write_data_to_json_file(data, file_path=json_abs_path):
   with open(file_path, 'w') as f:
     f.write(json.dumps(data, indent=4))
-  logging.info(f'Exprting applications list to {json_file_path}... [%s]' % STATUS['success'])
+  logging.info(f'Exporting applications list to {json_rel_path}... [%s]' % STATUS['success'])
 
 if __name__ == '__main__':
   with alive_bar(spinner='classic', bar=None) as bar:
     mac_apps = get_macos_apps('/Applications')
-    create_json_file({'MacOS Applications': mac_apps})
+    write_data_to_json_file({'MacOS Applications': mac_apps})
     # create a json file, and add mac_apps to it
     # get_macos_apps_installer(APP_INSTALLERS)
     bar()
