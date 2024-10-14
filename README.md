@@ -55,8 +55,5 @@ The goal is to have one interface to manage both my personal laptop, and my deve
 ## Development
 
 ```bash
-pyenv virtualenv devserver
-pyenv activate devserver
-pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
