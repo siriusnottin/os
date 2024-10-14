@@ -21,7 +21,7 @@ APP_INSTALLERS = {
 
 def get_macos_apps(apps_dir='/Applications'):
 
-  apps = []
+  apps = {}
 
   excluded_words = (
   '.DS_Store',
@@ -45,10 +45,13 @@ def get_macos_apps(apps_dir='/Applications'):
       logging.debug(f'{app} is not an app, skipping...')
       not_app_count+=1
       continue
-    apps.append({
-      'name': app.replace('.app', ''),
-      'installation_method': 'N/A'
-    })
+    apps[app.replace('.app', '')] = {
+      'name': app,
+      # get full path to the app
+      'path': os.path.join(os.path.abspath(apps_dir), app),
+      # 'publisher': get_app_publisher(os.path.join(apps_dir, app)),
+      'installation_method': 'Unknown'
+    }
   logging.info(f'Found {apps_count} apps in {apps_dir} [%s]' % STATUS['success'])
   table = [[apps_count, not_app_count, ignored_words_count]]
   headers = ['Found', 'Not App', 'Ignored Words']
@@ -82,7 +85,7 @@ json_file_name = 'mac_apps.json'
 json_file_path = os.path.join(os.getcwd(), json_file_name)
 def create_json_file(data, file_path=json_file_path):
   with open(file_path, 'w') as f:
-    f.write(json.dumps(data))
+    f.write(json.dumps(data, indent=4))
   logging.info(f'Exprting applications list to {json_file_path}... [%s]' % STATUS['success'])
 
 if __name__ == '__main__':
