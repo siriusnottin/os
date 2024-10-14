@@ -1,0 +1,329 @@
+{
+    "MacOS Applications": {
+        "Visual Studio Code": {
+            "name": "Visual Studio Code.app",
+            "path": "/Applications/Visual Studio Code.app",
+            "installation_method": "Unknown"
+        },
+        "Morgen": {
+            "name": "Morgen.app",
+            "path": "/Applications/Morgen.app",
+            "installation_method": "Unknown"
+        },
+        "P-touch Editor": {
+            "name": "P-touch Editor.app",
+            "path": "/Applications/P-touch Editor.app",
+            "installation_method": "Unknown"
+        },
+        "Microsoft Teams (work or school)": {
+            "name": "Microsoft Teams (work or school).app",
+            "path": "/Applications/Microsoft Teams (work or school).app",
+            "installation_method": "Unknown"
+        },
+        "Signal": {
+            "name": "Signal.app",
+            "path": "/Applications/Signal.app",
+            "installation_method": "Unknown"
+        },
+        "Lapce": {
+            "name": "Lapce.app",
+            "path": "/Applications/Lapce.app",
+            "installation_method": "Unknown"
+        },
+        "ProtoPie": {
+            "name": "ProtoPie.app",
+            "path": "/Applications/ProtoPie.app",
+            "installation_method": "Unknown"
+        },
+        "1Password": {
+            "name": "1Password.app",
+            "path": "/Applications/1Password.app",
+            "installation_method": "Unknown"
+        },
+        "Raycast": {
+            "name": "Raycast.app",
+            "path": "/Applications/Raycast.app",
+            "installation_method": "Unknown"
+        },
+        "Plexamp": {
+            "name": "Plexamp.app",
+            "path": "/Applications/Plexamp.app",
+            "installation_method": "Unknown"
+        },
+        "Figma": {
+            "name": "Figma.app",
+            "path": "/Applications/Figma.app",
+            "installation_method": "Unknown"
+        },
+        "Parcel": {
+            "name": "Parcel.app",
+            "path": "/Applications/Parcel.app",
+            "installation_method": "Unknown"
+        },
+        "DeepL": {
+            "name": "DeepL.app",
+            "path": "/Applications/DeepL.app",
+            "installation_method": "Unknown"
+        },
+        "Reverso": {
+            "name": "Reverso.app",
+            "path": "/Applications/Reverso.app",
+            "installation_method": "Unknown"
+        },
+        "Speedtest": {
+            "name": "Speedtest.app",
+            "path": "/Applications/Speedtest.app",
+            "installation_method": "Unknown"
+        },
+        "HP Easy Start": {
+            "name": "HP Easy Start.app",
+            "path": "/Applications/HP Easy Start.app",
+            "installation_method": "Unknown"
+        },
+        "Google Chrome": {
+            "name": "Google Chrome.app",
+            "path": "/Applications/Google Chrome.app",
+            "installation_method": "Unknown"
+        },
+        "Numbers": {
+            "name": "Numbers.app",
+            "path": "/Applications/Numbers.app",
+            "installation_method": "Unknown"
+        },
+        "Amie": {
+            "name": "Amie.app",
+            "path": "/Applications/Amie.app",
+            "installation_method": "Unknown"
+        },
+        "IINA": {
+            "name": "IINA.app",
+            "path": "/Applications/IINA.app",
+            "installation_method": "Unknown"
+        },
+        "OneDrive": {
+            "name": "OneDrive.app",
+            "path": "/Applications/OneDrive.app",
+            "installation_method": "Unknown"
+        },
+        "Warp": {
+            "name": "Warp.app",
+            "path": "/Applications/Warp.app",
+            "installation_method": "Unknown"
+        },
+        "Mullvad VPN": {
+            "name": "Mullvad VPN.app",
+            "path": "/Applications/Mullvad VPN.app",
+            "installation_method": "Unknown"
+        },
+        "HP Easy Scan": {
+            "name": "HP Easy Scan.app",
+            "path": "/Applications/HP Easy Scan.app",
+            "installation_method": "Unknown"
+        },
+        "Google Chrome Canary": {
+            "name": "Google Chrome Canary.app",
+            "path": "/Applications/Google Chrome Canary.app",
+            "installation_method": "Unknown"
+        },
+        "Google Drive": {
+            "name": "Google Drive.app",
+            "path": "/Applications/Google Drive.app",
+            "installation_method": "Unknown"
+        },
+        "Docker": {
+            "name": "Docker.app",
+            "path": "/Applications/Docker.app",
+            "installation_method": "Unknown"
+        },
+        "balenaEtcher": {
+            "name": "balenaEtcher.app",
+            "path": "/Applications/balenaEtcher.app",
+            "installation_method": "Unknown"
+        },
+        "Safari": {
+            "name": "Safari.app",
+            "path": "/Applications/Safari.app",
+            "installation_method": "Unknown"
+        },
+        "Tana": {
+            "name": "Tana.app",
+            "path": "/Applications/Tana.app",
+            "installation_method": "Unknown"
+        },
+        "GPG Keychain": {
+            "name": "GPG Keychain.app",
+            "path": "/Applications/GPG Keychain.app",
+            "installation_method": "Unknown"
+        },
+        "Supernotes": {
+            "name": "Supernotes.app",
+            "path": "/Applications/Supernotes.app",
+            "installation_method": "Unknown"
+        },
+        "Arc": {
+            "name": "Arc.app",
+            "path": "/Applications/Arc.app",
+            "installation_method": "Unknown"
+        },
+        "Adguard": {
+            "name": "Adguard.app",
+            "path": "/Applications/Adguard.app",
+            "installation_method": "Unknown"
+        },
+        "Endel": {
+            "name": "Endel.app",
+            "path": "/Applications/Endel.app",
+            "installation_method": "Unknown"
+        },
+        "Poedit": {
+            "name": "Poedit.app",
+            "path": "/Applications/Poedit.app",
+            "installation_method": "Unknown"
+        },
+        "zoom.us": {
+            "name": "zoom.us.app",
+            "path": "/Applications/zoom.us.app",
+            "installation_method": "Unknown"
+        },
+        "WhatsApp": {
+            "name": "WhatsApp.app",
+            "path": "/Applications/WhatsApp.app",
+            "installation_method": "Unknown"
+        },
+        "Keynote": {
+            "name": "Keynote.app",
+            "path": "/Applications/Keynote.app",
+            "installation_method": "Unknown"
+        },
+        "Google Docs": {
+            "name": "Google Docs.app",
+            "path": "/Applications/Google Docs.app",
+            "installation_method": "Unknown"
+        },
+        "Bear": {
+            "name": "Bear.app",
+            "path": "/Applications/Bear.app",
+            "installation_method": "Unknown"
+        },
+        "Dark Reader for Safari": {
+            "name": "Dark Reader for Safari.app",
+            "path": "/Applications/Dark Reader for Safari.app",
+            "installation_method": "Unknown"
+        },
+        "Google Sheets": {
+            "name": "Google Sheets.app",
+            "path": "/Applications/Google Sheets.app",
+            "installation_method": "Unknown"
+        },
+        "Pages": {
+            "name": "Pages.app",
+            "path": "/Applications/Pages.app",
+            "installation_method": "Unknown"
+        },
+        "Google Slides": {
+            "name": "Google Slides.app",
+            "path": "/Applications/Google Slides.app",
+            "installation_method": "Unknown"
+        },
+        "ExifPurge": {
+            "name": "ExifPurge.app",
+            "path": "/Applications/ExifPurge.app",
+            "installation_method": "Unknown"
+        },
+        "VirtualBox": {
+            "name": "VirtualBox.app",
+            "path": "/Applications/VirtualBox.app",
+            "installation_method": "Unknown"
+        },
+        "Superlist": {
+            "name": "Superlist.app",
+            "path": "/Applications/Superlist.app",
+            "installation_method": "Unknown"
+        },
+        "WakaTime": {
+            "name": "WakaTime.app",
+            "path": "/Applications/WakaTime.app",
+            "installation_method": "Unknown"
+        },
+        "WireGuard": {
+            "name": "WireGuard.app",
+            "path": "/Applications/WireGuard.app",
+            "installation_method": "Unknown"
+        },
+        "Raspberry Pi Imager": {
+            "name": "Raspberry Pi Imager.app",
+            "path": "/Applications/Raspberry Pi Imager.app",
+            "installation_method": "Unknown"
+        },
+        "Microsoft Edge": {
+            "name": "Microsoft Edge.app",
+            "path": "/Applications/Microsoft Edge.app",
+            "installation_method": "Unknown"
+        },
+        "Cron": {
+            "name": "Cron.app",
+            "path": "/Applications/Cron.app",
+            "installation_method": "Unknown"
+        },
+        "Setapp": {
+            "name": "Setapp.app",
+            "path": "/Applications/Setapp.app",
+            "installation_method": "Unknown"
+        },
+        "FileZilla": {
+            "name": "FileZilla.app",
+            "path": "/Applications/FileZilla.app",
+            "installation_method": "Unknown"
+        },
+        "iTerm": {
+            "name": "iTerm.app",
+            "path": "/Applications/iTerm.app",
+            "installation_method": "Unknown"
+        },
+        "Volum": {
+            "name": "Volum.app",
+            "path": "/Applications/Volum.app",
+            "installation_method": "Unknown"
+        },
+        "ImageOptim": {
+            "name": "ImageOptim.app",
+            "path": "/Applications/ImageOptim.app",
+            "installation_method": "Unknown"
+        },
+        "TimeMachineEditor": {
+            "name": "TimeMachineEditor.app",
+            "path": "/Applications/TimeMachineEditor.app",
+            "installation_method": "Unknown"
+        },
+        "Slack": {
+            "name": "Slack.app",
+            "path": "/Applications/Slack.app",
+            "installation_method": "Unknown"
+        },
+        "Anytype": {
+            "name": "Anytype.app",
+            "path": "/Applications/Anytype.app",
+            "installation_method": "Unknown"
+        },
+        "Blackmagic Proxy Generator Lite": {
+            "name": "Blackmagic Proxy Generator Lite.app",
+            "path": "/Applications/Blackmagic Proxy Generator Lite.app",
+            "installation_method": "Unknown"
+        },
+        "CSS Scan": {
+            "name": "CSS Scan.app",
+            "path": "/Applications/CSS Scan.app",
+            "installation_method": "Unknown"
+        },
+        "Discord": {
+            "name": "Discord.app",
+            "path": "/Applications/Discord.app",
+            "installation_method": "Unknown"
+        },
+        "Detail Studio": {
+            "name": "Detail Studio.app",
+            "path": "/Applications/Detail Studio.app",
+            "installation_method": "Unknown"
+        }
+    }
+}
