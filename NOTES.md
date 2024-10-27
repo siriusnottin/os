@@ -1,6 +1,5 @@
 # Notes for later
-
-These are my notes of importants things to add in the script, and stuff that I need to make sure will be integrated in the script but not sure if they are automatically added with the current version of my software.
+These are my notes of important things to add in the script, and stuff that I need to make sure will be integrated in the script but not sure if they are automatically added with the current version of my software.
 
 ## Important stuff to remember
 
@@ -21,10 +20,13 @@ These are my notes of importants things to add in the script, and stuff that I n
 
 ### Specific things
 
-- Scroll Reverser
+- Scroll Reverser [^1]
   - With its config if possible
-- VS Code activity for Discord
-- Figma activity for Discord
+- Autokbisw [^2]
+- Discord Activity
+  - VS Code activity for Discord
+  - Figma activity for Discord
+- Raycast custom plugins
 
 ## Configs to restore
 
@@ -71,7 +73,7 @@ I can't install the latest version of Xcode because I can only upgrade my OS up 
 
 #### Steps to install Xcode
 
-Here's the steps to install Xcode, according to Perpexitly.ai:
+Here's the steps to install Xcode, according to Perplexity.ai:
 
 1. Visit the Apple Developer website (https://developer.apple.com/download/all/).
 2. Sign in with your Apple ID. You don't need a paid developer account; a free Apple ID is sufficient.
@@ -82,3 +84,6 @@ Here's the steps to install Xcode, according to Perpexitly.ai:
 7. After extraction, drag the Xcode application to your Applications folder
 8. Open Xcode from your Applications folder. You may need to right-click and select "Open" the first time to bypass Gatekeeper security
 9. Xcode will likely prompt you to install additional components. Follow the on-screen instructions to complete the setup.
+
+[^1]: To have the scroll behavior to be separated between the trackpad and the mouse. [Official Website](https://pilotmoon.com/scrollreverser/)
+[^2]: To have the keyboard layout switcher to be automatic.[Official Website](https://github.com/ohueter/autokbisw)
