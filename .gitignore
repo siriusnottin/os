@@ -1,3 +1,9 @@
+logs/*
+!logs/.gitkeep
+
+output/*
+!output/.gitkeep
+
 output/*
 
 # General
@@ -7,7 +13,6 @@ output/*
 
 # Icon must end with two \r
 Icon
-
 
 # Thumbnails
 ._*
