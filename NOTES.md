@@ -4,6 +4,7 @@ These are my notes of important things to add in the script, and stuff that I ne
 ## Important stuff to remember
 
 - Set fixed IP address for the machine
+- Automate the install of fastfetch and start it on zsh startup
 
 ## Softwares to add
 
