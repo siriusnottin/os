@@ -1,3 +1,6 @@
+# Znap
+*.zwc
+
 logs/*
 !logs/.gitkeep
 
