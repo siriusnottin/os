@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 
 from src.commands import create_zsh_config
