@@ -1,3 +1,4 @@
-[submodule "files/dotfiles/dotfiles"]
-	path = files/dotfiles/dotfiles
-	url = https://github.com/siriusnottin/dotfiles
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/siriusnottin/dotfiles.git
+
