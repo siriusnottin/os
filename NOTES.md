@@ -11,13 +11,9 @@ These are my notes of important things to add in the script, and stuff that I ne
 ### Basic stuff
 
 1. Raycast
-2. Adguard
-3. Mullvad VPN
-4. Reverso
-5. Amie
 6. 1Password
 7. VS Code
-8. Docker
+8. Podman
 
 ### Specific things
 
