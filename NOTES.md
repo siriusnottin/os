@@ -13,7 +13,35 @@ These are my notes of important things to add in the script, and stuff that I ne
 1. Raycast
 6. 1Password
 7. VS Code
-8. Podman
+8. Warp
+9. Ghostty
+10. Podman
+11. Discord 
+
+### Vim
+
+**Install Vim:**
+
+```sh
+brew install vim
+```
+
+Configure Vim
+
+Use this: (see: [#7](https://github.com/siriusnottin/os/issues/7))
+
+[The Ultimate vimrc](https://github.com/amix/vimrc?tab=readme-ov-file)
+
+Instant Markdown previews from Vim
+
+[vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
+
+**Install Tmux**
+
+```sh
+brew install tmux
+```
+
 
 ### Specific things
 
