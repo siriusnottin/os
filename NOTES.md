@@ -122,3 +122,9 @@ Here's the steps to install Xcode, according to Perplexity.ai:
 
 [^1]: To have the scroll behavior to be separated between the trackpad and the mouse. [Official Website](https://pilotmoon.com/scrollreverser/)
 [^2]: To have the keyboard layout switcher to be automatic.[Official Website](https://github.com/ohueter/autokbisw)
+
+## Stow
+
+```sh
+brew install stow
+```
