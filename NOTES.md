@@ -18,6 +18,16 @@ These are my notes of important things to add in the script, and stuff that I ne
 10. Podman
 11. Discord 
 
+## Nerd Fonts
+
+Install Nerd Fonts
+
+```sh
+brew install font-hack-nerd-font
+```
+
+[ryanoasis/nerd-fonts: Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#option-2-homebrew-fonts)
+
 ### Vim
 
 **Install Vim:**
