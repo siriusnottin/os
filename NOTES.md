@@ -18,9 +18,11 @@ These are my notes of important things to add in the script, and stuff that I ne
 10. Podman
 11. Discord 
 
-## Nerd Fonts
+## Fonts
 
 Install Nerd Fonts
+
+This repo could be useful to install Nerd Fonts: [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#option-2-homebrew-fonts)
 
 ```sh
 brew install font-hack-nerd-font
