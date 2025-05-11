@@ -130,3 +130,9 @@ Here's the steps to install Xcode, according to Perplexity.ai:
 ```sh
 brew install stow
 ```
+
+## fzf
+
+```sh
+brew install fzf
+```
